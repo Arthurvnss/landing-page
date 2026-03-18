@@ -1,0 +1,58 @@
+body {
+ font-family: Arial;
+ background-color: #f4f4f4;
+ margin: 0;
+ padding: 0;
+ text-align: center;
+}
+
+header {
+ background-color: #2e4d2c;
+ color: white;
+ padding: 20px;
+}
+
+.img img {
+ width: 80%;
+ margin-top: 15px;
+ border-radius: 10px;
+}
+
+.sobre, .beneficios {
+ margin: 20px;
+ padding: 10px;
+}
+
+.beneficios ul {
+ list-style: none;
+ padding: 0;
+}
+
+.beneficios li {
+ background: #ddd;
+ margin: 5px;
+ padding: 8px;
+ border-radius: 5px;
+}
+
+.botao button {
+ background-color: #2e4d2c;
+ color: white;
+ border: none;
+ padding: 12px 20px;
+ font-size: 16px;
+ border-radius: 5px;
+ cursor: pointer;
+}
+
+.botao button:hover {
+ background-color: #3f6b3c;
+}
+
+footer {
+ margin-top: 20px;
+ padding: 10px;
+ background: #222;
+ color: white;
+ font-size: 14px;
+}
